@@ -1,8 +1,10 @@
-  [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-[cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
-[cc-by-nc-nd-shield]: https://img.shields.io/badge/licence-CC%20BY--NC--ND%204.0-green
+CBFHSS by Huan Chieh, Liao & Yang-Sheng, Ho is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc].
 
-- The project will be released after we arrange the code.
-- We will publish the code and holding an online conference about how to use it at May 3.
-- We are not guarantee about the things we say will be on time (?
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/licence-CC%20BY--NC--4.0-green
