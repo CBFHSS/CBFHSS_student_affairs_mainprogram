@@ -1,7 +1,7 @@
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 CBFHSS by Huan Chieh, Liao & Yang-Sheng, Ho is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc].
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
